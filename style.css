@@ -1,0 +1,50 @@
+
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 15px;
+    min-width: 70%;
+    padding-bottom: 15px;
+    margin: 0;
+}
+
+h2{ background-color: aqua; 
+    border-radius: 10px; 
+    padding: 1.5em;
+    margin-top: 0;
+    color: white;
+    font-size: 180%;
+}
+
+select{
+    padding: 10px;
+    border-radius: 10px;
+    width: 30%;
+}
+
+input{
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#currencyValue, #currencyOutput{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 20%;
+}
+
+button{
+    width: 20%;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: rgb(127, 182, 255);
+    color: white;
+    font-size: 130%;
+}
+
+button:hover{
+    mouse
+}
